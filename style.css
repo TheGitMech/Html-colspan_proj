@@ -1,0 +1,38 @@
+h1{
+    font-family: 'Kalam', cursive;
+    text-align: center;
+    color: black;
+    border: 2px dotted none;
+    border-radius: 40px;
+    padding: 5px;
+    background-color: turquoise;
+    font-size: 2rem;
+}
+
+body{
+    background-color: white;
+}
+
+table{
+    border-collapse: collapse;
+    border: 2px solid;
+    font-family: 'Kalam', cursive;
+    margin: auto;
+}
+
+.col{
+    color: green;
+}
+
+td{
+    border: 1px solid black;
+    background-color: paleturquoise;
+    padding: 4px 4px;
+    text-align: center;
+}
+th{
+    border: 1px solid black;
+    background-color: aquamarine;
+    padding: 4px 4px;
+    text-align: center;
+}
